@@ -1,0 +1,4 @@
+Arquivo consiste em adicionar e 
+remover tarefas através de interações com o 
+usuário no puro javascript. Manipulando a DOM sem
+ajuda de nenhuma framework.
